@@ -5,11 +5,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## In progress
-
 Huber, J., Schnitzer, D., Barry, H., Scanlan, J. Outcomes of Monoclonal Antibodies in Patients with COVID-19. JMIR Preprints 03/05/2024:60175 DOI: [10.2196/preprints.60175](https://preprints.jmir.org/preprint/60175)
-
-## Articles
 
 Monpas-Huber, J.B. (2015). [Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments](https://github.com/jackbhuber/pubs/blob/30a19d1c6553af42d57a8cca55fd88aa97984f3a/2015_JustPressingButtons_WERAJournal_1115.pdf). *The WERA Educational Journal*, 8(1), pp. 39-44. Washington Educational Research Association (WERA)
 
