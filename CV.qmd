@@ -1,0 +1,335 @@
+---
+title: "Dr. Jack Bernard Huber"
+#date: today
+#date-format: "MMMM YYYY"
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry: 
+      - top=25.4mm
+      - left=25.4mm
+      - right=25.4mm
+      - bottom=25.4mm
+---
+
+[jackhuber.org](https://jackhuber.org)\
+[LinkedIn](https://www.linkedin.com/in/jackbhuber)\
+[jack.bernard.huber\@gmail.com](mailto:jack.bernard.huber@gmail.com)\
+C: (206) 947-9926
+
+# Current Positions
+
+**Senior Clinical Data Analyst**, 10/20 - Present, Providence Swedish Medical Center, Seattle, WA
+
+**Adjunct Instructor**, Fall 2021 - Present, Analysis of Data for Problems of Practice, Department of Educational Leadership and Administration, School of Education, Gonzaga University, Spokane, WA
+
+**Research Associate**, 2013 - Present, Social and Economic Sciences Research Center (SESRC), Washington State University, Pullman, WA
+
+# Professional Experience
+
+**Senior Clinical Data Analyst**, 10/20 - Present, Department of Pharmacy, Providence Swedish Medical Center, Seattle, WA
+
+**Director of Research**, 7/19 - 4/20, Planning and Mission Effectiveness, Archdiocese of Seattle, Seattle, WA
+
+**Director of Data Management**, 8/17 - 6/19, Office for Catholic Schools, Archdiocese of Seattle, Seattle, WA
+
+**Director of Assessment, Research and Evaluation**, 7/16 - 6/17, Northshore School District, Bothell, WA
+
+**Director of Assessment, Student Information, and Gifted Program**, 12/15 - 6/16, Marysville School District, Marysville, WA
+
+**Director of Assessment and Student Information**, 7/14 - 12/14, Renton Public Schools, Renton, WA
+
+**Director of Assessment and Student Information**, 7/08 - 6/14, Shoreline Public Schools, Shoreline, WA
+
+**Director of Assessment and Program Evaluation**, 10/06 - 6/08, Spokane Public Schools, Spokane, WA
+
+**Student Learning Data Analyst**, 9/00 - 9/06, Northshore School District, Bothell, WA
+
+# Education
+
+**Ph.D.**, 2007, Educational Psychology (Measurement), University of Washington, Seattle, WA
+
+**Master of Science**, 1997, Sociology, Virginia Polytechnic Institute and State University, Blacksburg, VA
+
+**Bachelor of Arts**, 1993, Sociology, Arizona State University, Tempe, AZ
+
+# Consultancies
+
+**Research Associate**, 2013 - Present, Social and Economic Sciences Research Center (SESRC), Washington State University, Pullman, WA
+
+**Evaluator**, 2017 - 2018, Natural Leaders Program, Washington Alliance for Better Schools (WABS), Shoreline, WA
+
+**Evaluator**, 2016 - 2017, NGSS Pathways to Engineering Project (part of Math-Science Partnership Grant), Marysville School District, Marysville, WA
+
+**Guest Speaker**, 2014, Helping Parents Understand Standardized Achievement Testing, University Child Development School, Seattle, WA
+
+# Grants & Awards
+
+**Outstanding Mentor to PGY1 Pharmacy Residents**, June 2023, Providence Swedish Pharmacy, Seattle, WA
+
+**Outstanding Dissertation**, 2007, Washington Educational Research Association (WERA)
+
+**Research Grant**, 2006, \$4,400, Washington Education Research Association (WERA)
+
+# Selected Projects, Reports & Presentations
+
+## Clinical Support for Inpatient Hospital Pharmacy
+
+2021, State of Swedish Medical Center Continuing Pharmacy Education. Tableau dashboards summarizing pharmacist participation in and evaluation of online continuing pharmacy education modules.
+
+## Strategic Planning for Roman Catholic Parishes
+
+Huber, J.B. & McDermott, 2019. Developing indicators of parish vitality. Unpublished manuscript. Catholic Archdiocese of Seattle, Seattle, WA
+
+Huber, J.B. & Schoen, N. 2019. Projections of priest personnel in the Archdiocese of Seattle. Catholic Archdiocese of Seattle, Seattle, WA
+
+## Supporting Catholic Schools
+
+Coleman, J. & Huber, J.B. 2018. Results of digital advertising campaigns of Catholic schools. Presentation to Fulcrum Foundation Board of Directors, Annual December Fulcrum Board of Directors Meeting, Catholic Archdiocese of Seattle, Seattle, WA
+
+Huber, J.B. 2018. Office of Catholic Schools End-of-Year Report. Publication for Catholic Archdiocese of Seattle, Office of Catholic Schools, Archdiocese of Seattle, Seattle, WA
+
+Barton Smith, S. & Huber, J.B. 2018. Catholic identity in the Catholic Schools. Presentation to Catholic School Principals and Parish Priests, Annual Pastor-Principal Meeting, Office of Catholic Schools, Catholic Archdiocese of Seattle, Tukwila, WA
+
+O'Leary, K., Surapaneni, K., & Huber, J.B. 2018. Data review: Evidence of progress and excellence in student achievement and religious education in Archdiocese of Seattle Catholic Schools. Presentation to Catholic School Principals and Parish Priests, Annual Pastor-Principal Meeting, Office of Catholic Schools Catholic Archdiocese of Seattle, Tukwila, WA
+
+Huber, J.B. & Gnanarajah, A. 2017. Is more more? Explaining enrollment change in Archdiocese of Seattle elementary schools: A work-in-progress. Presentation to School Board, Office of Catholic Schools, Catholic Archdiocese of Seattle, Seattle, WA
+
+Huber, J.B. 2017. Real and ideal use of data in the Catholic high school. Presentation to Principals of Catholic High Schools. Summer Principal Meeting, Office of Catholic Schools, Catholic Archdiocese of Seattle, Seattle, WA
+
+## Validity of Uses and Interpretations of Educational Assessments
+
+Monpas-Huber, J. B. 2015. Elementary reading assessments: A validity study. Presentation to Elementary Principals, Marysville School District, Marysville, WA
+
+Monpas-Huber, J. B. 2013. Growth study of the Washington Achievement Index. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Validating standards-based elementary report card grades, 2011-12. Presentation to Shoreline Report Card Committee, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Update on the Orleans-Hanna Algebra Prognosis Test: A closer look at prediction. Presentation to Secondary and Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Rethinking DIBELS as a universal screener at grades 4-6: A closer look at classification accuracy. Presentation to Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Standards-based elementary report card grades and achievement on state assessment: A validity study. Presentation to Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Validity evidence for fall Lexile and secondary-level English course grades. Presentation to Secondary Teachers and Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2010. Validity evidence for easyCBM mathematics assessments. Presentation to Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2010. Equating and scaling curriculum-based mathematics measures for analysis of growth: Grade 3. Unpublished technical report for Behavioral Research and Teaching, University of Oregon.
+
+Monpas-Huber, J. B. 2010. Validity of elementary standards-based report card grades. Presentation to Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2010. Results of 2010 6th grade mathematics screening. Presentation to Superintendents Staff, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2010. Predictive validity of the Dynamic Indicators of Basic Early Literacy System (DIBELS). Presentation to Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+## Measuring and Reducing Gaps in Discipline and Academic Achievement
+
+Monpas-Huber, J. B. 2016. Inquiry into inequalities in discipline. Presentation to Respect Committee, Marysville, WA
+
+Poff, T., & Monpas-Huber, J. B. 2014. Equity of student access to advanced coursework: Analysis of course enrollment data for the 2013-14 Equity Assurance Report. Presentations to Secondary and Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Evidence of closing the achievement gap. Presentation to Secondary and Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Equity and achievement in secondary Honors English Language Arts classes. Presentation for Secondary Level Honors English/Language Arts Teachers, Shoreline Public Schools, Shoreline, WA
+
+Koceski, J., & Monpas-Huber, J. B. 2010. New federal and state race \\& ethnicity data requirements. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2009. Inequalities in educational opportunities and outcomes in Shoreline Public Schools. Presentation to Principals and Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+## Evaluating Educational Programs
+
+Parks, J., & Monpas-Huber, J. B. 2013. Achievement of Shoreline Childrens Center students in Shoreline schools. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Evaluation of Achieve3000 reading program. Presentation to Elementary Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B., & Kaje, 2012. E. S. Evidence of effectiveness for Learning Assistance Program (LAP) reading service in Shoreline Public Schools. Presentation for Washington State Office of the Superintendent of Public Schools (OSPI), Olympia, WA
+
+## Assessing College Readiness
+
+Monpas-Huber, J. B. 2013. College readiness of the Class of 2013: Evidence from SAT, ACT and Advanced Placement. Presentation to Shoreline Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Update on Advanced Placement participation and performance in Shoreline: Response to the 9th Annual AP Report to the Nation. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. College readiness of the Shoreline Class of 2012: Evidence from the SAT, ACT, and Advanced Placement. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Report on the 2011-12 10th Grade PSAT Initiative. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Achievement gap in college readiness? A closer look at racial differences in rates of college attendance, persistence, and graduation. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2011. Update on SAT and ACT results for the Class of 2011. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2011. Report on the AP Achievement List and fall 2011 PSAT testing. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2010. Report on Advanced Placement in Shoreline Public Schools. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+## Reporting Student Achievement & School Accountability
+
+Monpas-Huber, J. B. 2015. Update on North Star Indicators. Presentation to Marysville Board of Directors, Marysville School District, Marysville, WA
+
+Monpas-Huber, J. B. 2013. Results of spring 2013 state assessments. Presentation to Shoreline Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Update on the Washington Achievement Index. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Update on the 2012 Washington Achievement Index and similar school comparisons. Presentation for Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Results of spring 2012 state assessments. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2012. Update on the Washington Achievement Index, 2011 Results. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2011. Results of spring 2011 state assessments. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2011. Introduction to the Washington State Achievement Index. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2010. 2010 state assessment results: Similar school comparisons (a.k.a. Bugs on the Windshield). Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2009. Preliminary 2009 WASL / Adequate Yearly Progress results. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+## Using Data to Inform Leadership
+
+Monpas-Huber, J. B. 2013. New research on teacher evaluation. Presentation for Principals, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber J. B. 2009. Developing common assessments for professional learning communities. Presentation to Brookside Elementary and Kellogg Middle School, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber J. B. 2009. The data dashboard in Shoreline Public Schools. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2009. Standards-based grading 101. Presentation to Shoreline Teachers in Grade Level Meetings, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2009. The role of assessment in a professional learning community. Presentation for August 2009 Principals Leadership Academy, Shoreline Public Schools, Shoreline, WA
+
+Magi, E., & Monpas-Huber, J. B. 2008. Data-driven dialogue: High school science. Presentation to High School Principals, Spokane Public Schools, Spokane, WA
+
+Oakley, D., & Monpas-Huber, J. B. 2007. Using assessment to improve elementary mathematics instruction: A plan for 5th grade. Presentation to Directors, Elementary Principals, and Board of Directors, Spokane Public Schools, Spokane, WA
+
+## Results of Survey Studies
+
+Monpas-Huber, J. B., & Vujovich, A. 2013. Selected results from the fall 2012 Healthy Youth Survey in Shoreline. Presentation for Growing Up Shoreline Youth Suicide Prevention Event, City of Shoreline, Shoreline, WA
+
+Monpas-Huber, J. B. 2013. Report on the fall 2012 Healthy Youth Survey. Presentation to Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2011. Report on the fall 2010 Healthy Youth Survey. Presentation to Principals and Board of Directors, Shoreline Public Schools, Shoreline, WA
+
+Monpas-Huber, J. B. 2008. High school student perception survey pilot: Background and initial results. Presentation to Student Support Leadership Team, Spokane Public Schools, Spokane, WA
+
+Monpas-Huber, J. B. 2008. High school student survey: Rationale and plan of action. Presentation to High School Principals, Spokane Public Schools, Spokane, WA
+
+# University Teaching
+
+## Education
+
+[**Data Analysis for Problems of Practice**](https://EDLD710.jackhuber.org), Fall 2023, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
+
+[**Methods and Instruments for Data Collection**](https://jackhuber.org/EDLD704), Spring 2023, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
+
+[**Data Analysis for Problems of Practice**](https://jackhuber.org/EDLD710), Fall 2022, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
+
+**Evidence-Based Contribution to Problems of Practice**, Fall 2022, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
+
+**Action Plan for Problems of Practice**, Spring 2022, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
+
+**Research Methods in Education**, Winter 2007, College of Education, Washington State University-Spokane, Spokane, WA
+
+## Sociology
+
+**Criminology**, Fall 1999 - Spring 2000, Department of Sociology, University of Connecticut, Storrs, CT
+
+**Social Problems**, Fall 1999 - Spring 2000, Department of Sociology, University of Connecticut, Storrs, CT
+
+# Publications
+
+Monpas-Huber, J. B. 2015. [Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments](https://drive.google.com/file/d/1x8oKG5zFpYrCg2iZyhOD0OYvpk4IWJ_d/view?usp=sharing). The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA)
+
+Monpas-Huber, J. B. 2013. [Assessing teacher effectiveness: Charlotte Danielson's presentation at the December 2012 WERA Conference](https://drive.google.com/file/d/1IPchvprztE25ap0rP4c5FhwPeNwTM83E/view?usp=sharing). The Standard Deviation Newsletter, pp. 12-13. Washington Educational Research Association (WERA)
+
+Monpas-Huber, J. B. 2011. [Validity of college and career readiness assessments](https://drive.google.com/file/d/1WZL48M-R-UhAltJneSq7mOyfxNKFWjne/view?usp=sharing). The WERA Educational Journal, 4(1), pp. 10-12. Washington Educational Research Association (WERA)
+
+Monpas-Huber, J. B. 2010. [Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State](https://journals.sagepub.com/doi/abs/10.1177/105268461002000205). Journal of School Leadership, 20(2), 208-237.
+
+Monpas-Huber, J. B. 2010. [Validity of elementary standards-based report card grades](https://drive.google.com/file/d/0B0FZn1UP3pDvSHJWQkpQSUJsaEU/view?usp=sharing). The WERA Educational Journal, 2(2), 4-7. Washington Educational Research Association (WERA)
+
+Monpas-Huber, J. B. 2009. [Aligning district and state assessments to measure growth in achievement](https://drive.google.com/file/d/1iKRckK7T0cA37V8gCdT5YRIyaPR6Mv9n/view?usp=sharing). The WERA Educational Journal, 1(1), 47-50. Washington Educational Research Association (WERA)
+
+De Leeuw, H., & Monpas-Huber, J. B. 2009. Achievement of English Language Learners. Leadership Information, 7(3), 1-23. School Information and Research Service, Washington Association of School Administrators (WASA)
+
+Monpas-Huber, J. B. 2008. [Validity issues for common district assessments](https://drive.google.com/file/d/1e6rbcmWB8wU3L0KFt4FcoQsrmHbsOUiL/view?usp=sharing). The Standard Deviation Newsletter, pp. 20-29. Washington Educational Research Association (WERA)
+
+Knapp, M. S., Swinnerton, J. A., Copland, M. A., & Monpas-Huber, J. 2006. [Data-informed leadership in education](http://www.education.uw.edu/ctp/sites/default/files/ctpmail/PDFs/DataInformed-Nov1.pdf). Seattle, WA: Center for the Study of Teaching and Policy, University of Washington.
+
+# Conference Presentations
+
+Huber, J.B. (2018). [Bias in standardized testing](https://github.com/jackbhuber/talks/blob/9512d57d71405795fd703bb6844c7dd73e4968f0/2018_BiasInStandardizedTesting_WERA_120618.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA.
+
+Huber, J.B. (2018). [A closer look at summer change: Lessons from longitudinal data](https://github.com/jackbhuber/talks/blob/d03db8d2bd987d0b9ca05a0f5923347904a20a76/2018_ACloserLookAtSummerChange_Fusion_0618.pdf). Summer Fusion Conference of Northwest Evaluation Association (NWEA), Portland, OR.
+
+Monpas-Huber, J.B. (2015). [The relationship between Fountas & Pinnell Benchmark Assessment System and Smarter Balanced English and Language Arts Assessments, Grades 3-5](https://github.com/jackbhuber/talks/blob/bec125e98f93ee3e8e32f7f21ebe420bf97e8e80/2015_FB-SBA-Correlations_WERAPreconference_1215.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
+
+Monpas-Huber, J.B. (2015). [Just pressing buttons? Validity evidence for the STAR Assessments and Smarter Balanced Summative Assessments](https://github.com/jackbhuber/talks/blob/62ac1713b3f545576918ef33d045f11f6c03b392/2015_ValidityEvidenceforSTARSBAAssessment_WSSDAConference_112015.pdf). Presented at the Washington State School Directors Association (WSSDA) Conference, Bellevue, WA
+
+Monpas-Huber, J.B., & Garrett, M. (2012). [The course challenge test: A catalyst for change?](https://github.com/jackbhuber/talks/blob/e29d26d1897bea6b8e85a731fa404f2f6baf9dac/2012_TheCourseChallengeTest_WERA_1212.pdf) Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
+
+Monpas-Huber, J.B. (2012). [Growth inferences from district and state assessments: A look at elementary reading](https://github.com/jackbhuber/talks/blob/fc79815b144a95ac781ac74fc4e42a126c07aad5/2012_GrowthInferencesFromDistrictStateAssessments_WERA_032912.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
+
+Monpas-Huber, K., & Monpas-Huber, J.B. (2011). [The role of reading strategies in middle school reading comprehension: A classroom-based action research project](https://github.com/jackbhuber/talks/blob/63f14dba2745facb110eadd9864dc46183a78dac/2011_ReadingStrategies_WERA_1211.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA.
+
+Alonzo, J., Monpas-Huber, J. B., & Henry, S. 2010. Increasing student achievement with response to intervention and curriculum-based measurement. Presented at the Washington Educational Research Association (WERA)/Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
+
+Cummings, P., Monpas-Huber, J.B., & Wakeley, D. (2009). [Tricks of the trade: Validity of standards-based grades](https://github.com/jackbhuber/talks/blob/7267589f0c2a24a6c38329cf25dcec707cd7c0c5/2009_ValidityofStdsBasedGrades_WERA_1209.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA.
+
+Monpas-Huber, J.B., & Henry, S. (2009). [Using data from common district assessments to inform decisions about middle school mathematics: Lessons from Shoreline Public Schools](https://github.com/jackbhuber/talks/blob/8faba1d70054c5536da9b4a3944a37688d5749ad/2009_JBMH%26Henry_Common%20Assessments_WERA_1209.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA.
+
+Cummings, P. & Monpas-Huber, J. B. 2009. The how and why of podcasting for assessment folks. Presented at Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+Monpas-Huber, J.B., & Gering, S. (2009). [Building a data dashboard: The role of research](https://github.com/jackbhuber/talks/blob/33f09160d92ba8e0b95636f9b9f241f7c17b160c/2009_BuildingADataDashboard_WERA_0309.pdf). Presented at the March Meeting of the Washington Educational Research Association (WERA), SeaTac, WA.
+
+Monpas-Huber, J. B. (2008). [Aligning assessments to monitor growth in mathematics achievement: A validity study](https://github.com/jackbhuber/talks/blob/3b875e34bf6ebdf4c728c5869d45e086eb29548b/2008_AligningAssessments_WERA_1208.pdf). Presented at the December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA.
+
+Monpas-Huber, J. B. 2008. High school teachers use of data: A multilevel study. Presented at Annual Meeting of the American Educational Research Association (AERA), New York, NY
+
+De Leeuw, H. & Monpas-Huber, J. B. 2007. WASL performance of exited English Language Learners: Interesting findings and possible explanations. Presented at December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+Oakley, D., Lindeblad, K., Rye, G., Dennis, K., & Monpas-Huber, J. B. 2007. Using district assessments to improve mathematics instruction: The experience of Spokane Public Schools. Presented at December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+Monpas-Huber, J. B. 2007. Validity issues for medium-scale district assessments. Presented at December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+De Leeuw, H. & Monpas-Huber, J. B. 2007. Exited English Language Learners outperforming the district on the state assessment: How can this be? Presented at April Meeting of the Washington Association of Bilingual Education (WABE), Toppenish, WA
+
+Monpas-Huber, J. B. 2007. Making sense of assessment data: A case study of high school leaders. Presented at Annual Meeting of the American Educational Research Association (AERA), Chicago, IL
+
+Monpas-Huber, J. B. 2006. High school teachers instructional use of state assessment data: Exploring the role of school culture and motivation. Presented at the December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+Silverman, R., Elman, L., & Monpas-Huber, J. B. 2005. Alternative views of state assessment (WASL) data. Presented at the December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+Monpas-Huber, J. B. 2002. The impact of school grade configuration on state assessment (WASL) performance. Presented at the December Meeting of the Washington Educational Research Association (WERA), SeaTac, WA
+
+# Professional Service
+
+## Washington Educational Research Association (WERA)
+
+Chair, Research Grant Committee, 2015 - 2017
+
+Board Member at Large, 2012 - 2015
+
+Editor, The Standard Deviation Newsletter, 2012 - 2015
+
+Session Organizer, Measuring Student Progress: District Applications, Spring 2012 Conference
+
+Member, Conference Planning Committee, December 2007 Conference
+
+## National Association of Test Directors (NATD)
+
+President, 2010-2011
+
+Vice President, 2009-2010
+
+Secretary and Newsletter Editor, 2007-2009
+
+# Professional Association Memberships
+
+American Educational Research Association (AERA), 2003-2019
+
+National Association of Test Directors (NATD), 2007-2017
+
+National Council on Measurement in Education (NCME), 2003-2017
+
+Washington Educational Research Association (WERA), 2000-2017

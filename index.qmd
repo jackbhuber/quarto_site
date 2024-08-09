@@ -1,0 +1,30 @@
+---
+title: ""
+editor: visual
+about: 
+  template: trestles
+  image: images/jack_huber_web_03.jpg
+  image-width: 2.5in
+  image-shape: rectangle
+  links:
+    - icon: github
+      href: https://github.com/jackbhuber
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jackbhuber/
+    - icon: envelope
+      href: mailto:jack.bernard.huber@gmail.com
+    - icon: CV
+      text: CV
+      href: CV.qmd
+    - icon: ORCID
+      text: ORCID
+      href: https://orcid.org/0000-0003-3968-537X
+    - icon: google
+      href: https://scholar.google.com/citations?hl=en&user=dUt-_9MAAAAJ&view_op=list_works&gmla=AJsN-F5ItHsXL2NzbPuomfVm6jO2FKvvwNDIQLS48WQwMDc8qF-fwqnUV95iJfCfNsf9IDbq3R1O4cHjP8RY4gMG8weuRyJlio-o0UUPJObSiBOCQJGJXNo
+---
+
+I am **Senior Clinical Data Analyst** for the Clinical Pharmacy team of [Providence Swedish Medical Center](https://www.swedish.org/) in the Puget Sound area.
+
+I am an **Adjunct Instructor** for the [Doctor of Educational Leadership program in the School of Education at Gonzaga University](https://www.gonzaga.edu/school-of-education/graduate/doctor-of-educational-leadership).
+
+I am also a **Research Associate** for the [Social & Economic Sciences Research Center at Washington State University](https://sesrc.wsu.edu/).
