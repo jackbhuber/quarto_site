@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "pubs.html#in-progress",
-    "href": "pubs.html#in-progress",
+    "objectID": "pubs.html",
+    "href": "pubs.html",
     "title": "Writing",
-    "section": "In progress",
-    "text": "In progress\nHuber, J., Schnitzer, D., Barry, H., Scanlan, J. Outcomes of Monoclonal Antibodies in Patients with COVID-19. JMIR Preprints 03/05/2024:60175 DOI: 10.2196/preprints.60175"
-  },
-  {
-    "objectID": "pubs.html#articles",
-    "href": "pubs.html#articles",
-    "title": "Writing",
-    "section": "Articles",
-    "text": "Articles\nMonpas-Huber, J.B. (2015). Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments. The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA)\nMonpas-Huber, J.B. (2013). Assessing teacher effectiveness: Charlotte Danielson’s presentation at the December 2012 WERA Conference. The Standard Deviation Newsletter, pp. 12-13. Washington Educational Research Association (WERA)\nMonpas-Huber, J.B. (2011). Validity of college and career readiness assessments. The WERA Educational Journal, 4(1), pp. 10-12. Washington Educational Research Association (WERA)\nMonpas-Huber, J.B. (2010). Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State. Journal of School Leadership, 20(2), pp. 208-237.\nMonpas-Huber, J.B. (2009). Aligning district and state assessments to measure growth in achievement. The Standard Deviation Newsletter and Educational Journal, 1(1), pp. 47-50. Washington Educational Research Association (WERA)\nDe Leeuw, H., & Monpas-Huber, J.B. (2009). Achievement of English Language Learners. Leadership Information, 7(3), pp. 1-23. School Information and Research Service, Washington Association of School Administrators (WASA)\nMonpas-Huber, J.B. (2008). Validity issues for common district assessments. The Standard Deviation Newsletter, pp. 20-29. Washington Educational Research Association (WERA)\nKnapp, M.S., Swinnerton, J.A., Copland, M.A., & Monpas-Huber, J.B. (2006). Data-informed leadership in education. Seattle, WA: Center for the Study of Teaching and Policy, University of Washington"
+    "section": "",
+    "text": "Huber, J., Schnitzer, D., Barry, H., Scanlan, J. Outcomes of Monoclonal Antibodies in Patients with COVID-19. JMIR Preprints 03/05/2024:60175 DOI: 10.2196/preprints.60175\nMonpas-Huber, J.B. (2015). Just pressing buttons? Validity evidence for the STAR and Smarter Balanced Summative Assessments. The WERA Educational Journal, 8(1), pp. 39-44. Washington Educational Research Association (WERA)\nMonpas-Huber, J.B. (2013). Assessing teacher effectiveness: Charlotte Danielson’s presentation at the December 2012 WERA Conference. The Standard Deviation Newsletter, pp. 12-13. Washington Educational Research Association (WERA)\nMonpas-Huber, J.B. (2011). Validity of college and career readiness assessments. The WERA Educational Journal, 4(1), pp. 10-12. Washington Educational Research Association (WERA)\nMonpas-Huber, J.B. (2010). Explaining high school teachers instructional use of state assessment data: A multilevel study from Washington State. Journal of School Leadership, 20(2), pp. 208-237.\nMonpas-Huber, J.B. (2009). Aligning district and state assessments to measure growth in achievement. The Standard Deviation Newsletter and Educational Journal, 1(1), pp. 47-50. Washington Educational Research Association (WERA)\nDe Leeuw, H., & Monpas-Huber, J.B. (2009). Achievement of English Language Learners. Leadership Information, 7(3), pp. 1-23. School Information and Research Service, Washington Association of School Administrators (WASA)\nMonpas-Huber, J.B. (2008). Validity issues for common district assessments. The Standard Deviation Newsletter, pp. 20-29. Washington Educational Research Association (WERA)\nKnapp, M.S., Swinnerton, J.A., Copland, M.A., & Monpas-Huber, J.B. (2006). Data-informed leadership in education. Seattle, WA: Center for the Study of Teaching and Policy, University of Washington"
   },
   {
     "objectID": "index.html",
@@ -49,11 +42,18 @@
     "text": "Outcomes of Monoclonal Antibody Use in Patients with COVID-19\nPredicting Mortality in Patients with Necrotizing Fasciitis: A Machine Learning Study\nPredicting Mortality in Heart Failure Patients Admitted to ICU"
   },
   {
-    "objectID": "projects.html#clinical-research-data-science",
-    "href": "projects.html#clinical-research-data-science",
+    "objectID": "projects.html#health-care",
+    "href": "projects.html#health-care",
     "title": "Current projects",
     "section": "",
     "text": "Outcomes of Monoclonal Antibody Use in Patients with COVID-19\nPredicting Mortality in Patients with Necrotizing Fasciitis: A Machine Learning Study\nPredicting Mortality in Heart Failure Patients Admitted to ICU"
+  },
+  {
+    "objectID": "projects.html#religion",
+    "href": "projects.html#religion",
+    "title": "Current projects",
+    "section": "Religion",
+    "text": "Religion\n+————————————————————————————————————————————————————————————————————-+—————————————————————————————————————————————————————————————————————————————————————————————-+\n|  | Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1973-2018 |\n| | |\n| | A set of Tableau visualizations for exploring trends of retention in, and transition between, religious traditions, and disaffiliation from Christianity among American adults, based on 45 years of data from The General Social Survey |\n+————————————————————————————————————————————————————————————————————-+—————————————————————————————————————————————————————————————————————————————————————————————-+"
   },
   {
     "objectID": "about.html",
