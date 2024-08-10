@@ -7,7 +7,7 @@ editor: visual
 
 ## Education
 
-[**Data Analysis for Problems of Practice**](https://EDLD710.jackhuber.org), Fall 2023, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
+[**Data Analysis for Problems of Practice**](https://data-analysis-course.jackhuber.org), Fall 2023, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
 
 [**Methods and Instruments for Data Collection**](https://researchmethods.jackhuber.org), Spring 2023, Department of Educational Leadership & Administration, School of Education, Gonzaga University, Spokane, WA
 
