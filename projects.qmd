@@ -15,6 +15,9 @@ editor: visual
 
 ### Tableau visualizations
 
+[Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1972-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[America's Changing Religious Traditions](https://public.tableau.com/views/AmericasChangingReligiousTraditions/AdultTraditions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### In-progress
 
