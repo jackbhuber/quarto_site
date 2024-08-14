@@ -3,7 +3,7 @@ title: "Current projects"
 editor: visual
 ---
 
-## Health Care
+## Health Care Data Science
 
 [Outcomes of Monoclonal Antibody Use in Patients with COVID-19](http://mabs.jackhuber.org) - a propensity-matched comparison of the effect of monoclonal antibodies on 28-day rehospitalization and mortality in 21,139 outpatients with mild-to-moderate COVID-19 infections who presented to Swedish Medical Center emergency departments from 2021 to 2022
 
@@ -11,7 +11,7 @@ editor: visual
 
 [Predicting Mortality in Heart Failure Patients Admitted to ICU](http://mortality.jackhuber.org) - a logistic regression analysis of mortality in 1,177 adult heart failure (HF) patients admitted to Beth Israel Deaconess Medical Center in Boston from 2008 to 2019
 
-## Religion
+## Sociology of Religion
 
 ### Tableau visualizations
 

@@ -7,8 +7,8 @@ website:
     right:
       - href: projects.qmd
         text: "Projects"
-      - href: talks.qmd
-        text: "Talks"
+      - href: presentations.qmd
+        text: "Presentations"
       - href: pubs.qmd
         text: "Writing"
       - href: teaching.qmd
@@ -17,8 +17,6 @@ website:
         text: "CV"
       - href: JBH_Resume.pdf
         text: "Resume"
-      #- href: about.qmd
-      #  text: "About"
     background: navy
     foreground: light
 
