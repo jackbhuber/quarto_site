@@ -17,18 +17,18 @@ editor: visual
 
 [Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1972-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A nifty tool for exploring trends of retention and transition in American religious affiliation as well as a specific focus on disaffiliation from Christianity, based on data are from the General Social Survey, 1973 to 2018.
 
-[America's Changing Religious Traditions](https://public.tableau.com/views/AmericasChangingReligiousTraditions/AdultTraditions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A Sankey diagram visualization of data from the Pew Research Center's 2015 "Changing Religious Landscape" study
+[America's Changing Religious Traditions](https://public.tableau.com/views/AmericasChangingReligiousTraditions/AdultTraditions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A Sankey diagram visualization of data from the [Pew Research Center's 2015 America's Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/)
 
 ### In-progress
 
 **Validity Evidence for the Spiritual Harm and Abuse Scale (SHAS)** - [Koch and Edstrom (2022)](https://doi.org/10.1111/jssr.12792) developed a scale of spiritual harm and abuse by religious leaders. Here I plan to use the Rating Scale Model to examine the technical quality of the scale for use in research. <!-- [Validity Evidence for the Spiritual Harm and Abuse Scale (SHAS)](https://spiritual-abuse.jackhuber.org) -->
 
-**Validity of a Scale of Spiritual Well-Being** - The Pew Research Center 2015 Changing Religious Landscape survey included four items that could form a scale of spiritual well-being. I plan to use classical test theory and item response theory to assess the technical quality of this scale for use in research. <!-- [Validity of a Scale of Spiritual Well-Being](http://spiritual-well-being.jackhuber.org) -->
+**Validity of a Scale of Spiritual Well-Being** - The [Pew Research Center 2015 Changing Religious Landscape Survey](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/) included four items that could form a scale of spiritual well-being. I plan to use classical test theory and item response theory to assess the technical quality of this scale for use in research. <!-- [Validity of a Scale of Spiritual Well-Being](http://spiritual-well-being.jackhuber.org) -->
 
 **Coping during the COVID-19 Pandemic** - An analysis of coping strategies during the COVID-19 pandemic based on data from Wave VI of the Baylor Religion Survey
 
 <!-- [Prayer as Spiritual Coping during the COVID-19 Pandemic](https://covid-prayer.jackhuber.org/) -->
 
-**A Closer Look at Glossolalia** - an exploratory analysis of "speaking in tongues" among self-identified Christians in data from the Pew Research Center 2015 Changing Religious Landscape Study
+**A Closer Look at Glossolalia** - an exploratory analysis of "speaking in tongues" among self-identified Christians in data from the [Pew Research Center 2015 Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/)
 
 <!-- [A Closer Look at Glossolalia](https://tongues.jackhuber.org/) -->
