@@ -16,9 +16,9 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:jack.bernard.huber@gmail.com
-    - icon: CV
-      text: CV
-      href: CV.qmd
+    #- icon: CV
+    #  text: CV
+    #  href: CV.qmd
     - icon: ORCID
       text: ORCID
       href: https://orcid.org/0000-0003-3968-537X
@@ -27,8 +27,14 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=dUt-_9MAAAAJ&view_op=list_works&gmla=AJsN-F5ItHsXL2NzbPuomfVm6jO2FKvvwNDIQLS48WQwMDc8qF-fwqnUV95iJfCfNsf9IDbq3R1O4cHjP8RY4gMG8weuRyJlio-o0UUPJObSiBOCQJGJXNo
 ---
 
-I am **Senior Clinical Data Analyst** for the Clinical Pharmacy team of [Providence Swedish Medical Center](https://www.swedish.org/) in the Puget Sound area.
+## Bio
 
-I am an **Adjunct Instructor** for the [Doctor of Educational Leadership program in the School of Education at Gonzaga University](https://www.gonzaga.edu/school-of-education/graduate/doctor-of-educational-leadership).
+As **Senior Clinical Data Analyst**, I support the Clinical Team of the Department of Pharmacy of [Providence Swedish Medical Center](https://www.swedish.org/) in the Puget Sound area with data analytics.
 
-I am also a **Research Associate** for the [Social & Economic Sciences Research Center at Washington State University](https://sesrc.wsu.edu/).
+I also support the [Social & Economic Sciences Research Center at Washington State University](https://sesrc.wsu.edu/) as a **Research Associate** in which role I've conducted an annual psychometric analysis of data from a statewide survey of parental satisfaction with special education services.
+
+In recent years I've been an **Adjunct Instructor** on the faculty of the [Doctor of Educational Leadership program in the School of Education at Gonzaga University](https://www.gonzaga.edu/school-of-education/graduate/doctor-of-educational-leadership) in which role I've taught graduate courses in research methods and data analysis for students pursuing their doctorates in education (EdD).
+
+I am trained as a social scientist, psychometrician, and data science. I hold two degrees in sociology (B.A., Arizona State; M.S., Virginia Tech) and a doctorate in measurement (Ph.D., Educational Psychology (Measurement, Statistics & Research Design), University of Washington). I also have a certificate in data science.
+
+I live in the greater Seattle area of Washington State with my wife Patricia. In my free time, I enjoy reading, podcasts, movies, television, cooking, wine, and road cycling. I am Roman Catholic and an active member of St. Joseph Catholic Parish in Seattle. Since graduate school I've had an abiding research interest in the sociology of religion, and as time allows I conduct my own research projects analyzing data from national surveys.
