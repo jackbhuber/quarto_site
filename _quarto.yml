@@ -2,6 +2,8 @@ project:
   type: website
 
 website:
+  page-footer: 
+      center: "Built in R with Quarto" 
   title: "Jack Huber"
   navbar:
     right:
@@ -19,6 +21,7 @@ website:
         text: "Resume"
     background: navy
     foreground: light
+    
 
 format:
   html:
