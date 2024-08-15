@@ -7,21 +7,16 @@ website:
   title: "Jack Huber"
   navbar:
     right:
-      - href: projects.qmd
-        text: "Projects"
       - href: presentations.qmd
         text: "Presentations"
-      - href: pubs.qmd
-        text: "Writing"
+      - href: projects.qmd
+        text: "Projects"
       - href: teaching.qmd
         text: "Teaching"
-      - href: CV.qmd
-        text: "CV"
-      - href: JBH_Resume.pdf
-        text: "Resume"
+      - href: pubs.qmd
+        text: "Writing"
     background: navy
     foreground: light
-    
 
 format:
   html:

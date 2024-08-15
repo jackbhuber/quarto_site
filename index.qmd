@@ -13,18 +13,21 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jackbhuber/
-    - icon: envelope
-      text: E-mail
-      href: mailto:jack.bernard.huber@gmail.com
-    #- icon: CV
-    #  text: CV
-    #  href: CV.qmd
     - icon: ORCID
       text: ORCID
       href: https://orcid.org/0000-0003-3968-537X
     - icon: google
       text: Google
       href: https://scholar.google.com/citations?hl=en&user=dUt-_9MAAAAJ&view_op=list_works&gmla=AJsN-F5ItHsXL2NzbPuomfVm6jO2FKvvwNDIQLS48WQwMDc8qF-fwqnUV95iJfCfNsf9IDbq3R1O4cHjP8RY4gMG8weuRyJlio-o0UUPJObSiBOCQJGJXNo
+    - icon: CV
+      text: CV
+      href: CV.qmd
+    - icon: Resume
+      text: Resume
+      href: JBH_Resume.pdf
+    - icon: envelope
+      text: E-mail
+      href: mailto:jack.bernard.huber@gmail.com
 ---
 
 ## Bio
