@@ -22,9 +22,6 @@ about:
     - icon: CV
       text: CV
       href: CV.qmd
-    - icon: Resume
-      text: Resume
-      href: JBH_Resume.pdf
     - icon: envelope
       text: E-mail
       href: mailto:jack.bernard.huber@gmail.com
