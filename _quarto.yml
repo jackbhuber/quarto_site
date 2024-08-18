@@ -7,6 +7,8 @@ website:
   title: "Jack Huber"
   navbar:
     right:
+      - href: index.qmd
+        text: "Home"
       - href: presentations.qmd
         text: "Presentations"
       - href: projects.qmd
