@@ -5,17 +5,17 @@ editor: visual
 
 ## Health Care
 
-[Outcomes of Monoclonal Antibody Use in Patients with COVID-19](http://mabs.jackhuber.org) - a propensity-matched comparison of the effect of monoclonal antibodies on 28-day rehospitalization and mortality in 21,139 outpatients with mild-to-moderate COVID-19 infections who presented to Swedish Medical Center emergency departments from 2021 to 2022
+[Outcomes of Monoclonal Antibody Use in Patients with COVID-19](http://mabs.jackhuber.org) - a propensity-matched comparison of the effect of monoclonal antibodies on 28-day rehospitalization and mortality in 21,139 outpatients who presented with mild-to-moderate COVID-19 infections to Seattle area emergency departments from 2021 to 2022
 
-[Predicting Mortality in Patients with Necrotizing Fasciitis: A Machine Learning Study](http://necrotizingfasciitis.jackhuber.org) - Unsupervised and supervised models to predict mortality in 158 patients diagnosed with necrotizing fasciitis (flesh-eating bacterial infections) at Beth Israel Deaconess Medical Center in Boston from 2008 to 2019
+[Predicting Mortality in Patients with Necrotizing Fasciitis: A Machine Learning Study](http://necrotizingfasciitis.jackhuber.org) - Unsupervised and supervised models to predict mortality in 158 Boston area inpatients diagnosed with necrotizing fasciitis (flesh-eating bacterial infections) from 2008 to 2019[^1]
 
-[Predicting Mortality in Heart Failure Patients Admitted to ICU](http://mortality.jackhuber.org) - a logistic regression analysis of mortality in 1,177 adult heart failure (HF) patients admitted to Beth Israel Deaconess Medical Center in Boston from 2008 to 2019
+[Predicting Mortality in Heart Failure Patients Admitted to ICU](http://mortality.jackhuber.org) - a logistic regression analysis of mortality in 1,177 adult heart failure (HF) patients admitted to a Boston hospital from 2008 to 2019
 
 ## Religion
 
 ### Tableau visualizations
 
-[Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1972-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A nifty tool for exploring trends of retention and transition in American religious affiliation as well as a specific focus on disaffiliation from Christianity, based on data are from the General Social Survey, 1973 to 2018.
+[Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1972-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A tool for exploring trends in the religious affiliation of American adults, based on pooled cross-sections of data from the General Social Survey, 1973 to 2018.
 
 [America's Changing Religious Traditions](https://public.tableau.com/views/AmericasChangingReligiousTraditions/AdultTraditions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A Sankey diagram visualization of data from the [Pew Research Center's 2015 America's Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/)
 
@@ -32,3 +32,5 @@ editor: visual
 **A Closer Look at Glossolalia** - an exploratory analysis of "speaking in tongues" among self-identified Christians in data from the [Pew Research Center 2015 Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/)
 
 <!-- [A Closer Look at Glossolalia](https://tongues.jackhuber.org/) -->
+
+[^1]: Based on data from the [Medical Information Mart for Intensive Care (MIMIC)](https://necrotizingfasciitis.jackhuber.org/mimic.mit.edu), a repository of publicly accessible de-identified clinical data for medical research. It offers data on patients admitted to critical care units at the Beth Israel Deaconess Medical Center in Boston from 2008 to 2019.
