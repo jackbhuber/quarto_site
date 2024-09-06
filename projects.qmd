@@ -13,13 +13,11 @@ editor: visual
 
 ## Religion
 
-### Tableau visualizations
-
 [Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1972-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A tool for exploring trends in the religious affiliation of American adults, based on pooled cross-sections of data from the General Social Survey, 1973 to 2018.
 
 [America's Changing Religious Traditions](https://public.tableau.com/views/AmericasChangingReligiousTraditions/AdultTraditions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A Sankey diagram visualization of data from the [Pew Research Center's 2015 America's Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/)
 
-### In-progress
+## In-progress
 
 **Validity Evidence for the Spiritual Harm and Abuse Scale (SHAS)** - [Koch and Edstrom (2022)](https://doi.org/10.1111/jssr.12792) developed a scale of spiritual harm and abuse by religious leaders. Here I plan to use the Rating Scale Model to examine the technical quality of the scale for use in research. <!-- [Validity Evidence for the Spiritual Harm and Abuse Scale (SHAS)](https://spiritual-abuse.jackhuber.org) -->
 
