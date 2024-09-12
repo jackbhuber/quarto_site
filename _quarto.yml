@@ -13,8 +13,8 @@ website:
         text: "Presentations"
       - href: projects.qmd
         text: "Projects"
-      - href: JBH_Resume.pdf
-        text: Resume
+      #- href: JBH_Resume.pdf
+      #  text: Resume
       - href: teaching.qmd
         text: "Teaching"
       - href: pubs.qmd

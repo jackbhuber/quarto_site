@@ -22,6 +22,9 @@ about:
     - icon: CV
       text: CV
       href: CV.qmd
+    - icon: Resume
+      text: Resume
+      href: https://github.com/jackbhuber/quarto_site/blob/05717a0ea36fdb98993ae8568f831496cc38ff32/JBH_Resume.pdf
     - icon: envelope
       text: E-mail
       href: mailto:jack.bernard.huber@gmail.com
