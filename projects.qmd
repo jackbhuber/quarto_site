@@ -5,6 +5,8 @@ editor: visual
 
 ## Health Care
 
+These are several projects arising from or inspired by my recent work in health care.
+
 [Outcomes of Monoclonal Antibody Use in Patients with COVID-19](http://mabs.jackhuber.org) - a propensity-matched comparison of the effect of monoclonal antibodies on 28-day rehospitalization and mortality in 21,139 outpatients who presented with mild-to-moderate COVID-19 infections to Seattle area emergency departments from 2021 to 2022
 
 [Predicting Mortality in Patients with Necrotizing Fasciitis: A Machine Learning Study](http://necrotizingfasciitis.jackhuber.org) - Unsupervised and supervised models to predict mortality in 158 Boston area inpatients diagnosed with necrotizing fasciitis (flesh-eating bacterial infections) from 2008 to 2019[^1]
@@ -13,11 +15,15 @@ editor: visual
 
 ## Religion
 
+These are a couple of projects inspired by my abiding interests in the sociology of religion and analysis of data from large national surveys.
+
 [Retention, Transition, and Disaffiliation from American Christianity: Trend Data from the General Social Survey, 1972-2018](https://public.tableau.com/views/RetentionTransitionandDisaffilationinAmericanChristianity/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A tool for exploring trends in the religious affiliation of American adults, based on pooled cross-sections of data from the General Social Survey, 1973 to 2018.
 
 [America's Changing Religious Traditions](https://public.tableau.com/views/AmericasChangingReligiousTraditions/AdultTraditions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - A Sankey diagram visualization of data from the [Pew Research Center's 2015 America's Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/)
 
 ## In-progress
+
+These are works in progress inspired by my abiding interests in the sociology and psychology of religion, psychometrics, and analysis of data from large national surveys.
 
 **Validity Evidence for the Spiritual Harm and Abuse Scale (SHAS)** - [Koch and Edstrom (2022)](https://doi.org/10.1111/jssr.12792) developed a scale of spiritual harm and abuse by religious leaders. Here I plan to use the Rating Scale Model to examine the technical quality of the scale for use in research. <!-- [Validity Evidence for the Spiritual Harm and Abuse Scale (SHAS)](https://spiritual-abuse.jackhuber.org) -->
 
