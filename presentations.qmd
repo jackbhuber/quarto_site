@@ -5,7 +5,11 @@ editor: visual
 
 ------------------------------------------------------------------------
 
+## Health care
+
 Huber, J.B. (2023). [Tips and tools for statistical data analysis](https://github.com/jackbhuber/talks/blob/7c78b6905cefb064e695db1c0ece1478e2f19238/2023_TipsandTools_SwedishLearningDay_103123.pdf). Presented at Swedish Learning & Celebration Day. Swedish Medical Center Cherry Hill Campus, Seattle, WA
+
+## Education
 
 Huber, J.B. (2018). [Bias in standardized testing](https://github.com/jackbhuber/talks/blob/9512d57d71405795fd703bb6844c7dd73e4968f0/2018_BiasInStandardizedTesting_WERA_120618.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
 
