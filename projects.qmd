@@ -3,7 +3,7 @@ title: "Current projects"
 editor: visual
 ---
 
-## Health Care
+## Health care
 
 These are several projects arising from or inspired by my recent work in health care.
 
