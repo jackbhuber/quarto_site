@@ -7,6 +7,8 @@ editor: visual
 
 ## Health care
 
+Bugarin, A., Rollier, G. Duwelius, P.J., Simanonok, M., Huber, J., Lieberman, E. (2025). Economic Impact and Outcomes in Revision Total Knee Arthroplasty. Abstract presented at 2025 Western Orthopedic Association. Koloa, Kauai, Hawaii.
+
 Huber, J.B. (2023). [Tips and tools for statistical data analysis](https://github.com/jackbhuber/talks/blob/7c78b6905cefb064e695db1c0ece1478e2f19238/2023_TipsandTools_SwedishLearningDay_103123.pdf). Presented at Swedish Learning & Celebration Day. Swedish Medical Center Cherry Hill Campus, Seattle, WA
 
 ## Education
