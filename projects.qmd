@@ -36,5 +36,3 @@ These are several projects arising from or inspired by my recent work in health 
 <!-- **A Closer Look at Glossolalia** - an exploratory analysis of "speaking in tongues" among self-identified Christians in data from the [Pew Research Center 2015 Changing Religious Landscape Study](https://www.pewresearch.org/religion/2015/05/12/americas-changing-religious-landscape/) -->
 
 <!-- <!-- [A Closer Look at Glossolalia](https://tongues.jackhuber.org/) -->
-
-[^1]: Based on data from the [Medical Information Mart for Intensive Care (MIMIC)](https://necrotizingfasciitis.jackhuber.org/mimic.mit.edu), a repository of publicly accessible de-identified clinical data for medical research. It offers data on patients admitted to critical care units at the Beth Israel Deaconess Medical Center in Boston from 2008 to 2019.
