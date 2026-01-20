@@ -22,10 +22,6 @@ C: (206) 947-9926
 
 **Senior Clinical Data Analyst**, 10/20 - Present, Providence Swedish Medical Center, Seattle, WA
 
-**Adjunct Instructor**, Fall 2021 - Present, Analysis of Data for Problems of Practice, Department of Educational Leadership and Administration, School of Education, Gonzaga University, Spokane, WA
-
-**Research Associate**, 2013 - Present, Social and Economic Sciences Research Center (SESRC), Washington State University, Pullman, WA
-
 # Professional Experience
 
 **Senior Clinical Data Analyst**, 10/20 - Present, Department of Pharmacy, Providence Swedish Medical Center, Seattle, WA
@@ -56,7 +52,7 @@ C: (206) 947-9926
 
 # Consultancies
 
-**Research Associate**, 2013 - Present, Social and Economic Sciences Research Center (SESRC), Washington State University, Pullman, WA
+**Research Associate**, 2013 - 2024, Social and Economic Sciences Research Center (SESRC), Washington State University, Pullman, WA
 
 **Evaluator**, 2017 - 2018, Natural Leaders Program, Washington Alliance for Better Schools (WABS), Shoreline, WA
 
@@ -75,6 +71,8 @@ C: (206) 947-9926
 # Selected Projects, Reports & Presentations
 
 ## Clinical Support for Inpatient Hospital Pharmacy
+
+Huber, J.B. & Pham, D. 2025. [Evaluation of Post-Operative Enteral Antihypertensive Timing and Hold Parameters Drug Therapy Guideline](https://github.com/jackbhuber/talks/blob/34c17f2f0a4e43b3b0a695ca9db64253f776f414/2025_Post-Op_Antihypertensives.pdf) (DTG).
 
 2021, State of Swedish Medical Center Continuing Pharmacy Education. Tableau dashboards summarizing pharmacist participation in and evaluation of online continuing pharmacy education modules.
 
