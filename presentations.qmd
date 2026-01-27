@@ -9,11 +9,11 @@ editor: visual
 
 Bugarin, A., Rollier, G., Duwelius, P. J., Simanonok, M., Huber, J., & Lieberman, E. (2025, July). Economic impact and outcomes in revision total knee arthroplasty \[Conference presentation abstract\]. 2025 Western Orthopaedic Association Annual Meeting, Koloa, Kauai, HI, United States.
 
-Huber, J.B. (2023). [Tips and tools for statistical data analysis](https://github.com/jackbhuber/talks/blob/7c78b6905cefb064e695db1c0ece1478e2f19238/2023_TipsandTools_SwedishLearningDay_103123.pdf). Presented at Swedish Learning & Celebration Day. Swedish Medical Center Cherry Hill Campus, Seattle, WA
+Huber, J.B. (2023). [Tips and tools for statistical data analysis](docs/2023_TipsandTools_SwedishLearningDay_103123.pdf). Presented at Swedish Learning & Celebration Day. Swedish Medical Center Cherry Hill Campus, Seattle, WA
 
 ## Education
 
-Huber, J.B. (2018). [Bias in standardized testing](https://github.com/jackbhuber/talks/blob/9512d57d71405795fd703bb6844c7dd73e4968f0/2018_BiasInStandardizedTesting_WERA_120618.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
+Huber, J.B. (2018). [Bias in standardized testing](docs/bias-in-standardized-testing-WERA-120618.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
 
 Huber, J.B. (2018). [A closer look at summer change: Lessons from longitudinal data](https://github.com/jackbhuber/talks/blob/d03db8d2bd987d0b9ca05a0f5923347904a20a76/2018_ACloserLookAtSummerChange_Fusion_0618.pdf). Summer Fusion Conference of Northwest Evaluation Association (NWEA), Portland, OR
 
