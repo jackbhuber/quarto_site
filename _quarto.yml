@@ -13,7 +13,7 @@ website:
         text: "Presentations"
       - href: projects.qmd
         text: "Projects"
-      - href: JBH _ Resume.pdf
+      - href: docs/JBH _ Resume.pdf
         text: Resume
       - href: teaching.qmd
         text: "Teaching"

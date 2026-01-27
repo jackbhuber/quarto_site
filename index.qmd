@@ -32,13 +32,13 @@ about:
 
 ## About me
 
-I'm a researcher, data analyst, statistician, and psychometrician with over 20 years of experience using data to inform decision-making and improve outcomes in the K-12 public education, nonprofit, and now healthcare sectors.
+I'm a researcher, data analyst, statistician, and psychometrician with over 25 years of experience using data to inform decisionmaking and improve outcomes in the K-12 public education, nonprofit, and now healthcare sectors.
 
-Equally as important, I'm a skilled communicator and educator who loves to educate and mentor my colleagues in research design, statistics, and data management, interpretation, and presentation. I demystify complex data concepts for non-technical audiences.
+I'm a communicator and educator who loves to educate and mentor my colleagues in research design, statistics, and data management, interpretation, and presentation. I demystify complex data concepts for non-technical audiences.
 
-I'm strongly committed to valid data, evidence-based practice, equitable outcomes, and empowering others.
+I'm committed to valid data, evidence-based practice, equitable outcomes, and empowering others to use data more skillfully and effectively.
 
-I work primarily in Excel, SQL, R, Tableau, and Power BI, and am always striving to learn new methods, statistics, tools, and technologies to solve my employers' or clients' practical problems.
+I work primarily in Excel, SQL, R, Tableau, and Power BI, and am always learning new methods, statistics, tools, and technologies to solve my employers' or clients' practical problems.
 
 My background is social science. I hold two degrees in sociology and a doctorate in psychometrics. I also have recent continuing education certificates in AI and Data Science.
 
