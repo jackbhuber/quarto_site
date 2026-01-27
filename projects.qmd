@@ -7,7 +7,7 @@ editor: visual
 
 These are several projects arising from or inspired by my recent work in health care.
 
-[Evaluation of Post-Operative Enteral Antihypertensive Medication Timing and Hold Parameters](https://jackhuber.org/docs/PostOp_Antihypertensives.pdf) - an evaluation of a pharmacy protocol intended to prevent low blood pressure events in patients post-surgery
+[Evaluation of Post-Operative Enteral Antihypertensive Medication Timing and Hold Parameters](https://jackhuber.org/PostOp_Antihypertensives.pdf) - an evaluation of a pharmacy protocol intended to prevent low blood pressure events in patients post-surgery
 
 [Outcomes of Monoclonal Antibody Use in Patients with COVID-19](http://mabs.jackhuber.org) - a propensity-matched comparison of the effect of monoclonal antibodies on 28-day rehospitalization and mortality in 21,139 outpatients who presented with mild-to-moderate COVID-19 infections to Seattle area emergency departments from 2021 to 2022
 
