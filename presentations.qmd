@@ -13,7 +13,7 @@ Huber, J.B. (2023). [Tips and tools for statistical data analysis](docs/2023_Tip
 
 ## Education
 
-Huber, J.B. (2018). [Bias in standardized testing](docs/bias-in-standardized-testing-WERA-120618.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
+Huber, J.B. (2018). [Bias in standardized testing](docs/2018_bias-in-standardized-testing-wera.pdf). Presented at the Washington Educational Research Association (WERA) / Office of the Superintendent of Public Instruction (OSPI) State Assessment Conference, SeaTac, WA
 
 Huber, J.B. (2018). [A closer look at summer change: Lessons from longitudinal data](https://github.com/jackbhuber/talks/blob/d03db8d2bd987d0b9ca05a0f5923347904a20a76/2018_ACloserLookAtSummerChange_Fusion_0618.pdf). Summer Fusion Conference of Northwest Evaluation Association (NWEA), Portland, OR
 
